@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5727","Test successful password change","","Mon Sep 16 21:49:43 GMT+04:00 2024","passed","Mon Sep 16 21:49:49 GMT+04:00 2024","","test_main","",""
+"","5315","Test change password with mismatched confirmation","","Mon Sep 16 21:49:38 GMT+04:00 2024","passed","Mon Sep 16 21:49:43 GMT+04:00 2024","","test_main","",""
+"","6675","Test change password with incorrect current password","","Mon Sep 16 21:49:31 GMT+04:00 2024","passed","Mon Sep 16 21:49:38 GMT+04:00 2024","","test_main","",""
+"","10408","Test invalid login attempt","","Mon Sep 16 21:49:12 GMT+04:00 2024","passed","Mon Sep 16 21:49:22 GMT+04:00 2024","","test_main","",""
+"","8943","Test successful login","","Mon Sep 16 21:49:22 GMT+04:00 2024","passed","Mon Sep 16 21:49:31 GMT+04:00 2024","","test_main","",""
